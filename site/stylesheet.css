@@ -1,0 +1,47 @@
+
+body {
+	background-color: ghostwhite;
+	margin: 0;
+	padding: 0;
+}
+/* Design the header */
+header{
+	background-color: lightskyblue;
+	padding: 2px 2px 15px 2px;
+}
+header h1{
+	text-align: center;
+	font-size: 35px;
+}
+
+header a {
+	text-align: center;
+	padding: 15px;
+	text-decoration: none;
+	font-size: 30px;
+	color: black;
+	border-radius: 4px 4px 4px 4px;
+
+	}
+
+header a:hover {
+	background-color: red;
+	color: green;
+
+
+}
+ #bg {
+ 	width: screen;
+ 	height: 150px;
+
+ 	background-image: url("badge.jpg");
+ 	background-repeat: no-repeat;
+ 	background-position: top;
+
+ 	}
+
+ footer{
+ 	background-color: lightskyblue;
+ 	padding: 2px;
+ 	font-size: 120%;
+ }
